@@ -19,6 +19,11 @@
 
 #### This script is open to anyone! Buying and selling scripts is prohibited!
 
+## Donate
+
+### - Buy Me A Cake
+<a href="https://saweria.co/ichizza"><img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/71b9e4a5bf4c45f.png" style="width: 15%"></a>
+
 ## Note
 - Problem born by the user
 - Change The Information <a href="https://github.com/Ichizza/chizza-tele/blob/main/index.js#L26">Here</a> And <a href="https://github.com/Ichizza/chizza-tele/blob/main/index.js#L58">Here</a>
