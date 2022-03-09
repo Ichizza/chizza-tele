@@ -37,7 +37,7 @@ Clone this project
 
 ```
 > git clone https://github.com/Ichizza/Chizza-tele
-> cd Chizza-md
+> cd Chizza-tele
 ```
 
 Install the script:
