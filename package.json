@@ -1,6 +1,6 @@
 {
   "name": "chizza-tele",
-  "version": "1.0.0",
+  "version": "1.2.3",
   "description": "Simple Base Telegram Bot",
   "main": "index.js",
   "directories": {
